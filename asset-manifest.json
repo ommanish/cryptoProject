@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptoProject/crypto-search-app/static/css/main.3f994a6e.css",
+    "main.js": "/cryptoProject/crypto-search-app/static/js/main.a1d53cd9.js",
+    "index.html": "/cryptoProject/crypto-search-app/index.html",
+    "main.3f994a6e.css.map": "/cryptoProject/crypto-search-app/static/css/main.3f994a6e.css.map",
+    "main.a1d53cd9.js.map": "/cryptoProject/crypto-search-app/static/js/main.a1d53cd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f994a6e.css",
+    "static/js/main.a1d53cd9.js"
+  ]
+}
