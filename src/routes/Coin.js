@@ -53,7 +53,7 @@ const Coin = () => {
                 <th>7d</th>
                 <th>14d</th>
                 <th>30d</th>
-                <th>1yr</th>
+                <th>1Y</th>
               </tr>
             </thead>
             <tbody>
